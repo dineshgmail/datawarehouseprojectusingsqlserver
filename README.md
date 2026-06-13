@@ -25,6 +25,7 @@ Customer Data
 Product Data
 Booking Data
 Transaction Data
+
 2. Staging Layer
 
 The staging layer is used for:
@@ -34,6 +35,7 @@ Data validation
 Data cleansing
 Deduplication
 Initial transformations
+
 3. Enterprise Data Warehouse (EDW)
 
 The EDW serves as the centralized repository for enterprise data.
