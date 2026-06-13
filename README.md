@@ -44,6 +44,8 @@ Third Normal Form (3NF) design
 Reduced data redundancy
 Improved data consistency
 Single source of truth
+
+
 4. Data Marts
 
 Business-specific Data Marts are created from the EDW for analytical reporting.
