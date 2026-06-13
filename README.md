@@ -76,13 +76,21 @@ Power BI
 Project Structure
 Project
 │
+
 ├── Source Data
+
 ├── Staging Layer
+
 ├── EDW
+
 ├── Data Marts
+
 ├── ETL Pipelines
+
 ├── SQL Scripts
+
 └── Documentation
+
 Benefits of Inmon Architecture
 Centralized enterprise data repository
 High data quality and consistency
